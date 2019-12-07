@@ -1,0 +1,183 @@
+
+<style media="screen" type="text/css">
+
+
+.Bar{ margin-top:-9px ; background-color:#2d2f37; width:100%; height:45px; }
+#Home{ position: relative; float: left;  font-size: 16px; border: none; padding: 9px 24px; color: white; background-color: #2d2f37; margin-top: 7px;}
+#FrameWorks{ position: relative; float: left;  font-size: 16px; border: none; padding: 9px 17px; color: white; background-color: #2d2f37; margin-top: 8px;}
+#Projects{ position: relative; float: left;  font-size: 16px; border: none; padding: 9px 17px; color: white; background-color: #2d2f37; margin-top: 8px;}
+#Image {width: 38px; height: 38px; border-radius: 50%;  position: float; margin-top: 5px; float: right; margin-right: 10px;}
+
+body, html {
+  height: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: thistle;
+}
+
+.paral { background-image: url('prog1.jpg'); height: 100%;
+background-attachment: fixed;
+background-position: center;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.parrral { background-image: url('replaceyoo.jpg'); height: 100%;
+background-attachment: fixed;
+background-position: center;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.parrralelo { background-image: url('talta.jpg'); height: 100%;
+background-attachment: fixed;
+background-position: center;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#kalam {
+  position: relative;
+  float: left;
+font-size: 25px;
+background-color: #ffffff;
+padding-bottom: 50px;
+padding-left: 200px;
+padding-right:200px ;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.qaol{
+
+background-color: #161515;
+padding-bottom: 1000px;
+color: white;
+font-size: larger;
+padding-top: 10px;
+padding-bottom: 2000px;
+margin-top: 500px;
+
+}
+
+#F_Col {
+
+float: left;
+margin-left: 310px;
+font-size: 23px;
+}
+
+#S_Col {
+float: left;
+margin-top: 70px;;
+margin-left: 259px;
+font-size: 23px;
+
+}
+
+#T_Col {
+
+  float: right;
+  margin-right: 310px;
+  font-size: 23px;
+}
+
+#Wow {
+  margin-top: 30px;
+  float: left;
+  left: 100px;
+  width: 100%;
+border: 0.3px solid rgb(255, 255, 255);
+
+}
+
+.projs {
+
+  margin-top: 300px;
+  padding-top: 150px;
+
+}
+
+#firstbbc {
+  padding-top: 50px;
+  float: left;
+  margin-left: 360px;
+
+}
+#secondweather {
+  padding-top: 50px;
+
+  float: right;
+  margin-right: 290px;
+
+
+}
+
+#thirdcode {
+  padding-top: 50px;
+
+  float: right;
+  margin-right: 117px;
+}
+  #soorah1 {
+border-radius: 50%;
+float: left;
+margin-left: -24px;
+    width: 130px;
+    height: 130px;
+  }
+
+
+
+  #soorah2 {
+border-radius: 50%;
+float: left;
+margin-left: 77px;
+    width: 130px;
+    height: 130px;
+  }
+  #soorah3 {
+border-radius: 50%;
+float: right;
+margin-right: 40px;
+    width: 130px;
+    height: 130px;
+  }
+
+
+@keyframes example {
+ from {margin-top: -5px;}
+  to {margin-top: -20px; }
+ 
+}
+
+#soorah1:hover { animation-name: example;
+  animation-duration: 0.5s;
+   animation-iteration-count: infinite;
+      transition-delay: 2s;
+       animation-direction: alternate;
+}
+
+
+#soorah2:hover { animation-name: example;
+  animation-duration: 0.5s;
+   animation-iteration-count: infinite;
+      transition-delay: 2s;
+       animation-direction: alternate;
+}
+
+
+#soorah3:hover { animation-name: example;
+  animation-duration: 0.5s;
+   animation-iteration-count: infinite;
+      transition-delay: 2s;
+       animation-direction: alternate;
+}
+
+    </style>
